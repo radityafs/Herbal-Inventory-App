@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Herbal Inventory</string>
+    <string name="title">HERBS PRODUCT</string>
+    <string name="products">Product</string>
+    <string name="stocks">Stocks</string>
+    <string name="category">Category</string>
+    <string name="_167">0</string>
+    <string name="_234">0</string>
+    <string name="_16">0</string>
+    <string name="subtitle">PRODUCT LIST</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="searchHint">Cari nama</string>
+</resources>
